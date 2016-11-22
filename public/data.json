@@ -1,0 +1,74 @@
+{
+  "accts": [
+    {
+      "username": "1",
+      "password": "1",
+      "id": "1"
+    },
+    {
+      "username": "danil@yahoo.com",
+      "password": "danil",
+      "id": "2"
+    },
+    {
+      "username": "artour@rocketmail.com",
+      "password": "artour",
+      "id": "3"
+    },
+    {
+      "username": "dave",
+      "password": "25",
+      "id": "H1faFtU-l"
+    },
+    {
+      "username": "new@gmail.com",
+      "password": "12345678",
+      "id": "r17c3t8bg"
+    },
+    {
+      "username": "this@gmail.com",
+      "password": "12345678",
+      "id": "ryaJM9Ibx"
+    },
+    {
+      "username": "1@gmail.com",
+      "password": "12345678",
+      "id": "Hyx3zJnbx"
+    },
+    {
+      "username": "2@gmail.com",
+      "password": "12345678",
+      "id": "BkSNN1n-e"
+    },
+    {
+      "username": "a@gmail.com",
+      "password": "12345678",
+      "id": "BJgMHJ2Wg"
+    },
+    {
+      "username": "aweqw@gmail.com",
+      "password": "123123123",
+      "id": "BJm4B1hWg"
+    },
+    {
+      "username": "clydebalaman@gmail.com",
+      "password": "123123123",
+      "id": "Sydnwk2Zx"
+    },
+    {
+      "username": "qweqwe@gmail.com",
+      "password": "123123123",
+      "id": "SJQMdkh-l"
+    },
+    {
+      "username": "qweqwe@gmail.com",
+      "password": "123123123",
+      "id": "H1hSOk2-l"
+    },
+    {
+      "username": "2@gmail.com",
+      "password": "123123123",
+      "id": "rJp3Hpyzg"
+    }
+  ]
+}
